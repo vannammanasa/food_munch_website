@@ -20,9 +20,9 @@ This project was developed as a front-end web development project for learning a
 
 The project contains three main files:
 
-- `index.html` — contains the structure and content of the website.
-- `style.css` — controls the colours, layout, spacing, and overall design.
-- `app.js` — handles interactive features and smooth scrolling.
+- `index.html` - contains the structure and content of the website.
+- `style.css` - controls the colours, layout, spacing, and overall design.
+- `app.js` - handles interactive features and smooth scrolling.
 
 ## Features
 
